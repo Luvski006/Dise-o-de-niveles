@@ -574,6 +574,8 @@ MonoBehaviour:
   _speed: 5
   _rotationSpeed: 50
   _force: 10
+  _jumpHeight: 1.5
+  _gravity: -19.62
 --- !u!143 &904277749
 CharacterController:
   m_ObjectHideFlags: 0
@@ -716,6 +718,15 @@ MonoBehaviour:
     m_Type: 0
     m_ExpectedControlType: 
     m_Id: d52c7969-447d-4c62-8148-80257318683a
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  _jumpAction:
+    m_Name: Jump
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: b63062b8-6682-4e97-86ad-60931e80035b
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings: []

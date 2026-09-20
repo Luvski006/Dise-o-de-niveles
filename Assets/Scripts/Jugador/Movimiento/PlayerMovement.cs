@@ -1,27 +1,44 @@
 using UnityEngine;
-[RequireComponent (typeof(CharacterController), typeof(Rigidbody))]
+
+[RequireComponent(typeof(CharacterController), typeof(Rigidbody))]
 public class PlayerMovement : MonoBehaviour
 {
     public Collider hitbox = null;
     [SerializeField] private float _speed = 5f, _rotationSpeed = 5f, _force = 10f;
+
+    [Header("Salto")]
+    [SerializeField] private float _jumpHeight = 1.5f;
+    [SerializeField] private float _gravity = -19.62f;
+
     private CharacterController _cC = null;
     private Rigidbody _rb = null;
     private float _rotationY = 0f;
+    private float _verticalVelocity = 0f;
 
     private void Awake()
     {
         if (!_cC) _cC = GetComponent<CharacterController>();
         if (!_rb) _rb = GetComponent<Rigidbody>();
-        
     }
 
-    public void Movement (Vector2 dir)
+    // Movimiento + gravedad en un solo Move()
+    public void Movement(Vector2 dir)
     {
-        Vector3 move = transform.forward * dir.y + transform.right * dir.x;
-        move.Normalize();
-        move = move.normalized * _speed * Time.deltaTime;
+        if (_cC.isGrounded && _verticalVelocity < 0f)
+            _verticalVelocity = -2f; // lo mantiene pegado al piso
 
-        _cC.Move(move);            
+        _verticalVelocity += _gravity * Time.deltaTime;
+
+        Vector3 move = (transform.forward * dir.y + transform.right * dir.x).normalized * _speed;
+        move.y = _verticalVelocity;
+
+        _cC.Move(move * Time.deltaTime);
+    }
+
+    public void Jump()
+    {
+        if (_cC.isGrounded)
+            _verticalVelocity = Mathf.Sqrt(_jumpHeight * -2f * _gravity);
     }
 
     public void RB_Movement(Vector2 dir)
@@ -31,10 +48,9 @@ public class PlayerMovement : MonoBehaviour
         _rb.AddForce(move, ForceMode.Impulse);
     }
 
-    public void Rotate (Vector2 lookdir)
+    public void Rotate(Vector2 lookdir)
     {
         _rotationY += lookdir.x * _rotationSpeed * Time.deltaTime;
         transform.localRotation = Quaternion.Euler(0, _rotationY, 0);
     }
-
 }
