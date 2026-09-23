@@ -285,6 +285,12 @@
         },
         {
             "m_Id": "177620036e8a438bb3bb5707b8849444"
+        },
+        {
+            "m_Id": "88fc9fd98fa9475688a9d23ae43bf32b"
+        },
+        {
+            "m_Id": "c5e5c7cff69144969a59a62c18bf4db6"
         }
     ],
     "m_Edges": [
@@ -1123,9 +1129,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1593.0001220703125,
-            "y": 1992.0,
-            "width": 207.9998779296875,
+            "x": -1204.9998779296875,
+            "y": 1814.0,
+            "width": 207.99993896484376,
             "height": 326.0
         }
     },
@@ -1364,10 +1370,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1642.0001220703125,
-            "y": 1378.0001220703125,
-            "width": 205.9998779296875,
-            "height": 129.9998779296875
+            "x": -1563.9998779296875,
+            "y": 1368.0,
+            "width": 206.0,
+            "height": 130.0
         }
     },
     "m_Slots": [
@@ -1401,9 +1407,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -385.00042724609377,
-            "y": 1766.0,
-            "width": 126.00030517578125,
+            "x": -358.9998474121094,
+            "y": 1671.0,
+            "width": 125.99992370605469,
             "height": 118.0
         }
     },
@@ -1488,8 +1494,8 @@
     "m_ObjectId": "0cca23da40f6494abe70eb18858339e9",
     "m_Title": "Eliminar fondo negro",
     "m_Position": {
-        "x": -638.0,
-        "y": 1211.0
+        "x": -637.9998779296875,
+        "y": 1271.0
     }
 }
 
@@ -1505,8 +1511,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1412.000244140625,
-            "y": 1312.0,
+            "x": -1333.9998779296875,
+            "y": 1302.0,
             "width": 158.0,
             "height": 34.0
         }
@@ -1639,7 +1645,7 @@
         "x": 1049.0,
         "y": 520.0,
         "width": 80.0,
-        "height": 100.0
+        "height": 11.0
     },
     "m_Group": {
         "m_Id": ""
@@ -1682,9 +1688,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2188.000244140625,
-            "y": 2080.0,
-            "width": 206.0001220703125,
+            "x": -1607.9998779296875,
+            "y": 1944.0,
+            "width": 206.0,
             "height": 130.0
         }
     },
@@ -1866,9 +1872,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1034.0001220703125,
-            "y": -548.0001220703125,
-            "width": 126.000244140625,
+            "x": -790.0,
+            "y": -585.0,
+            "width": 126.0,
             "height": 118.00003051757813
         }
     },
@@ -1968,10 +1974,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -719.0001831054688,
-            "y": 991.0000610351563,
-            "width": 140.99993896484376,
-            "height": 33.99993896484375
+            "x": -603.0001220703125,
+            "y": 1065.0,
+            "width": 141.00006103515626,
+            "height": 33.9998779296875
         }
     },
     "m_Slots": [
@@ -2027,10 +2033,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1491.0,
-            "y": -567.0001220703125,
-            "width": 205.9998779296875,
-            "height": 130.00003051757813
+            "x": -1247.0,
+            "y": -604.0,
+            "width": 206.0,
+            "height": 130.0
         }
     },
     "m_Slots": [
@@ -2064,10 +2070,10 @@
         "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1403.0,
-            "y": -402.0000305175781,
-            "width": 149.9998779296875,
-            "height": 77.00003051757813
+            "x": -1159.0,
+            "y": -439.0,
+            "width": 150.0,
+            "height": 76.0
         }
     },
     "m_Slots": [
@@ -2137,10 +2143,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1839.000244140625,
-            "y": 1994.0001220703125,
+            "x": -1379.9998779296875,
+            "y": 1822.0,
             "width": 147.0,
-            "height": 33.9998779296875
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -2201,8 +2207,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1891.0001220703125,
-            "y": 2106.0,
+            "x": -1383.9998779296875,
+            "y": 1933.0,
             "width": 120.0,
             "height": 149.0
         }
@@ -2248,10 +2254,10 @@
         "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1239.0001220703125,
-            "y": -567.0001220703125,
-            "width": 120.0001220703125,
-            "height": 77.00006103515625
+            "x": -994.9999389648438,
+            "y": -604.0,
+            "width": 119.99993896484375,
+            "height": 76.0
         }
     },
     "m_Slots": [
@@ -2355,8 +2361,8 @@
     "m_ObjectId": "38592fe1453249d49ae71930cf5f5705",
     "m_Title": "Gradiente",
     "m_Position": {
-        "x": -404.0,
-        "y": -645.0
+        "x": -404.0001220703125,
+        "y": -645.0000610351563
     }
 }
 
@@ -2372,10 +2378,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -825.9999389648438,
-            "y": 225.0,
+            "x": -741.0000610351563,
+            "y": 130.00006103515626,
             "width": 206.0,
-            "height": 130.00003051757813
+            "height": 129.99996948242188
         }
     },
     "m_Slots": [
@@ -2657,8 +2663,8 @@
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -932.0,
-        "y": -322.0,
+        "x": -688.0,
+        "y": -359.0,
         "width": 200.0,
         "height": 129.0
     },
@@ -2742,10 +2748,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -542.0003051757813,
-            "y": 996.0,
-            "width": 129.99990844726563,
-            "height": 118.0
+            "x": -426.0001525878906,
+            "y": 1069.9998779296875,
+            "width": 130.0001220703125,
+            "height": 118.0001220703125
         }
     },
     "m_Slots": [
@@ -2785,9 +2791,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1641.000244140625,
-            "y": 1516.0,
-            "width": 206.0001220703125,
+            "x": -1562.9998779296875,
+            "y": 1506.0,
+            "width": 206.0,
             "height": 130.0
         }
     },
@@ -2836,10 +2842,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1842.0001220703125,
-            "y": 1925.0001220703125,
-            "width": 151.9998779296875,
-            "height": 33.9998779296875
+            "x": -1382.9998779296875,
+            "y": 1752.9998779296875,
+            "width": 152.0,
+            "height": 34.0001220703125
         }
     },
     "m_Slots": [
@@ -2906,8 +2912,8 @@
     "m_ObjectId": "53d723d81bf746b9ac7c9fc744e99be3",
     "m_Title": "Añadir color",
     "m_Position": {
-        "x": -744.0,
-        "y": 932.0
+        "x": -628.0001220703125,
+        "y": 1006.0
     }
 }
 
@@ -2938,9 +2944,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -946.0001220703125,
-            "y": 1372.0,
-            "width": 120.0,
+            "x": -867.9999389648438,
+            "y": 1362.0,
+            "width": 120.00006103515625,
             "height": 149.0
         }
     },
@@ -3003,8 +3009,8 @@
     "m_ObjectId": "58a8fe001dda43bf956c7159a139eb4b",
     "m_Title": "Porcentaje del Mesh",
     "m_Position": {
-        "x": -1516.0,
-        "y": -626.0
+        "x": -1272.0001220703125,
+        "y": -663.0000610351563
     }
 }
 
@@ -3212,10 +3218,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -525.9999389648438,
-            "y": 342.0,
+            "x": -515.0000610351563,
+            "y": 245.00003051757813,
             "width": 200.0,
-            "height": 34.0
+            "height": 34.000030517578128
         }
     },
     "m_Slots": [
@@ -3263,10 +3269,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1220.000244140625,
-            "y": 1340.0001220703125,
-            "width": 172.0001220703125,
-            "height": 247.9998779296875
+            "x": -1141.9998779296875,
+            "y": 1330.0,
+            "width": 172.0,
+            "height": 248.0
         }
     },
     "m_Slots": [
@@ -3331,8 +3337,8 @@
     "m_ObjectId": "63f4d1fad8df4f7f92947ba0326697f3",
     "m_Title": "Partes de Arriba: Mesh",
     "m_Position": {
-        "x": -2213.0,
-        "y": 1864.0
+        "x": -1632.9998779296875,
+        "y": 1694.0
     }
 }
 
@@ -3458,10 +3464,10 @@
         "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1236.0,
-            "y": -403.00006103515627,
+            "x": -992.0,
+            "y": -440.0,
             "width": 120.0,
-            "height": 76.99996948242188
+            "height": 76.0
         }
     },
     "m_Slots": [
@@ -3505,10 +3511,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1394.000244140625,
-            "y": 1570.0,
+            "x": -1315.9998779296875,
+            "y": 1560.0,
             "width": 144.0,
-            "height": 33.9998779296875
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -3535,8 +3541,8 @@
     "m_ObjectId": "698d6394d5b04cf9aa6ab0eeaaf45ccc",
     "m_Title": "Musgo textura",
     "m_Position": {
-        "x": -1667.0,
-        "y": 1195.0
+        "x": -1588.9998779296875,
+        "y": 1185.0
     }
 }
 
@@ -3688,10 +3694,10 @@
         "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1237.0001220703125,
-            "y": -229.00003051757813,
+            "x": -993.0,
+            "y": -265.9999694824219,
             "width": 120.0,
-            "height": 76.99995422363281
+            "height": 76.0
         }
     },
     "m_Slots": [
@@ -3943,9 +3949,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -407.0000305175781,
-            "y": 1269.9998779296875,
-            "width": 181.0000762939453,
+            "x": -442.9999694824219,
+            "y": 1334.0,
+            "width": 181.00006103515626,
             "height": 34.0
         }
     },
@@ -3979,10 +3985,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1398.000244140625,
-            "y": 1608.0,
+            "x": -1319.9998779296875,
+            "y": 1598.0,
             "width": 148.0,
-            "height": 33.9998779296875
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -4151,6 +4157,26 @@
         "z": 0.0
     },
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "88fc9fd98fa9475688a9d23ae43bf32b",
+    "m_Title": "Multiply",
+    "m_Content": "Juntamos textura con el efecto de gradiente\n\n",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": 392.0,
+        "y": 162.0,
+        "width": 116.0,
+        "height": 100.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {
@@ -4461,8 +4487,8 @@
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -930.0,
-        "y": 1524.0,
+        "x": -852.0,
+        "y": 1514.0,
         "width": 87.0,
         "height": 100.0
     },
@@ -4545,8 +4571,8 @@
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -155.0,
-        "y": 19.0,
+        "x": -144.0,
+        "y": -78.0,
         "width": 92.0,
         "height": 100.0
     },
@@ -4690,8 +4716,8 @@
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -243.0,
-        "y": 1828.0,
+        "x": -217.0,
+        "y": 1733.0,
         "width": 136.0,
         "height": 100.0
     },
@@ -4898,9 +4924,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -839.0000610351563,
-            "y": -535.0000610351563,
-            "width": 125.9998779296875,
+            "x": -595.0,
+            "y": -572.0,
+            "width": 126.0,
             "height": 118.0
         }
     },
@@ -5024,8 +5050,8 @@
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -1634.0,
-        "y": 1254.0,
+        "x": -1556.0,
+        "y": 1244.0,
         "width": 88.0,
         "height": 100.0
     },
@@ -5040,8 +5066,8 @@
     "m_ObjectId": "ae9c1f14238e404faa33ce1760cd6bb2",
     "m_Title": "Mascara con fondo negro",
     "m_Position": {
-        "x": 59.0,
-        "y": 1513.0
+        "x": 59.000003814697269,
+        "y": 1513.0001220703125
     }
 }
 
@@ -5230,10 +5256,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -215.99993896484376,
-            "y": 135.00003051757813,
-            "width": 207.99993896484376,
-            "height": 431.9999694824219
+            "x": -205.0000457763672,
+            "y": 38.00004959106445,
+            "width": 172.00006103515626,
+            "height": 248.00001525878907
         }
     },
     "m_Slots": [
@@ -5263,7 +5289,7 @@
         "project"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 2,
     "m_CustomColors": {
@@ -5308,8 +5334,8 @@
     "m_ObjectId": "b4768ecc13ff469d8831e0b3c20e3718",
     "m_Title": "Mascara con intensidad",
     "m_Position": {
-        "x": -1183.0,
-        "y": 1830.0
+        "x": -930.9998779296875,
+        "y": 1722.0
     }
 }
 
@@ -5349,10 +5375,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1158.000244140625,
-            "y": 1888.9998779296875,
-            "width": 164.99993896484376,
-            "height": 34.0001220703125
+            "x": -905.9998779296875,
+            "y": 1781.0,
+            "width": 165.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -5657,6 +5683,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "c5e5c7cff69144969a59a62c18bf4db6",
+    "m_Title": "MUSGO EN LA PARTE DE ARRIBA",
+    "m_Content": "",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1303.0,
+        "y": 945.0,
+        "width": 351.0,
+        "height": 100.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "c637e6ddb7404dd1be351f08c5412fb5",
     "m_Id": 0,
@@ -5706,10 +5752,10 @@
         "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1400.0,
-            "y": -229.99996948242188,
+            "x": -1156.0,
+            "y": -266.9999694824219,
             "width": 119.0,
-            "height": 76.99996948242188
+            "height": 76.0
         }
     },
     "m_Slots": [
@@ -5789,9 +5835,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -189.99993896484376,
-            "y": 1327.9998779296875,
-            "width": 144.99990844726563,
+            "x": -238.9999542236328,
+            "y": 1395.0,
+            "width": 144.99996948242188,
             "height": 118.0
         }
     },
@@ -5946,10 +5992,10 @@
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -2171.0,
-        "y": 1923.0,
-        "width": 205.0,
-        "height": 100.0
+        "x": -1595.0,
+        "y": 1754.0,
+        "width": 139.0,
+        "height": 133.0
     },
     "m_Group": {
         "m_Id": "63f4d1fad8df4f7f92947ba0326697f3"
@@ -6085,9 +6131,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -965.000244140625,
-            "y": 1939.9998779296875,
-            "width": 208.0001220703125,
+            "x": -712.9999389648438,
+            "y": 1831.9998779296875,
+            "width": 208.00003051757813,
             "height": 302.0001220703125
         }
     },
@@ -6194,8 +6240,8 @@
     "m_ObjectId": "dbe823f6421248819dbf7a99806edb64",
     "m_Title": "Mascara con Alpha",
     "m_Position": {
-        "x": -410.0,
-        "y": 1707.0
+        "x": -383.9999084472656,
+        "y": 1612.0
     }
 }
 
@@ -6281,9 +6327,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -399.9999694824219,
-            "y": 1428.9998779296875,
-            "width": 125.99993896484375,
+            "x": -443.9999694824219,
+            "y": 1429.0,
+            "width": 126.00003051757813,
             "height": 118.0
         }
     },
@@ -6353,8 +6399,8 @@
     "m_ObjectId": "e6c9c9a53e4343c7bac75d2c7de69a3d",
     "m_Title": "Textura Principal",
     "m_Position": {
-        "x": -851.0,
-        "y": -40.0
+        "x": -766.0001220703125,
+        "y": -137.0
     }
 }
 
@@ -6443,10 +6489,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -527.9999389648438,
-            "y": 411.9999694824219,
+            "x": -517.0000610351563,
+            "y": 315.00006103515627,
             "width": 195.99996948242188,
-            "height": 34.0
+            "height": 33.99993896484375
         }
     },
     "m_Slots": [
@@ -6752,10 +6798,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -520.9999389648438,
-            "y": 53.00001525878906,
-            "width": 168.0,
-            "height": 34.00000762939453
+            "x": -510.00006103515627,
+            "y": -43.999942779541019,
+            "width": 167.99996948242188,
+            "height": 33.99995040893555
         }
     },
     "m_Slots": [
@@ -6841,10 +6887,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -824.9998779296875,
-            "y": 75.00003814697266,
-            "width": 205.99993896484376,
-            "height": 129.99993896484376
+            "x": -740.0001220703125,
+            "y": -20.00000762939453,
+            "width": 206.00006103515626,
+            "height": 130.00003051757813
         }
     },
     "m_Slots": [

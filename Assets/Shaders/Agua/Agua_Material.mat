@@ -132,7 +132,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 0.1882353, g: 0.4560926, b: 0.59607846, a: 1}
     - _ColorAbsorcion: {r: 0, g: 0.16281752, b: 0.735849, a: 0}
-    - _ColorFondito: {r: 0.18845673, g: 0.5188679, b: 0.24569328, a: 0}
+    - _ColorFondito: {r: 0.022798901, g: 0.4528302, b: 0.0064079626, a: 0}
     - _ColorOrilla: {r: 0.029636879, g: 0.15979882, b: 0.16981131, a: 0}
     - _Direccion: {r: -1, g: 0, b: 0, a: 0}
     - _DireccionOrilla: {r: 1, g: 0, b: 0, a: 0}

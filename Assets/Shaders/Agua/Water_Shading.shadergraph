@@ -445,8 +445,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 947.9999389648438,
-            "y": -60.999996185302737
+            "x": 1043.9998779296875,
+            "y": -55.999996185302737
         },
         "m_Blocks": [
             {
@@ -859,7 +859,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Smoothness",
     "m_StageCapability": 2,
-    "m_Value": 0.800000011920929,
+    "m_Value": 1.0,
     "m_DefaultValue": 0.5,
     "m_Labels": []
 }
@@ -1402,8 +1402,8 @@
     "m_ObjectId": "5676305d0e2e476a823a87ec3a9beff4",
     "m_Title": "Colores y profundidad",
     "m_Position": {
-        "x": -452.0001220703125,
-        "y": -889.0000610351563
+        "x": -452.0,
+        "y": -888.9999389648438
     }
 }
 
@@ -1637,7 +1637,7 @@
     "m_Title": "Agua Movimiento",
     "m_Position": {
         "x": -580.0,
-        "y": 409.0
+        "y": 408.9998474121094
     }
 }
 
@@ -2758,8 +2758,8 @@
     "m_ObjectId": "d3ac712748074ab2951b8e466127dcbb",
     "m_Title": "Orilla",
     "m_Position": {
-        "x": -1466.0001220703125,
-        "y": -210.0
+        "x": -1466.0,
+        "y": -209.9999237060547
     }
 }
 
