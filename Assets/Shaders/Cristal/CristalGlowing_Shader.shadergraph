@@ -795,8 +795,8 @@
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": 559.0,
-        "y": 244.0,
+        "x": 498.0,
+        "y": 194.0,
         "width": 200.0,
         "height": 102.0
     },
@@ -3229,7 +3229,7 @@
     "m_ObjectId": "e15f56a32ec345f3a6bc7c921b09fc72",
     "m_Title": "Brillo 2 colores",
     "m_Position": {
-        "x": -1177.0,
+        "x": -1177.0001220703125,
         "y": -1058.0
     }
 }
