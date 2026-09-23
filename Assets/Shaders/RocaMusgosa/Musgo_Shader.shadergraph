@@ -1488,8 +1488,8 @@
     "m_ObjectId": "0cca23da40f6494abe70eb18858339e9",
     "m_Title": "Eliminar fondo negro",
     "m_Position": {
-        "x": -637.9999389648438,
-        "y": 1211.0001220703125
+        "x": -638.0,
+        "y": 1211.0
     }
 }
 
@@ -2355,8 +2355,8 @@
     "m_ObjectId": "38592fe1453249d49ae71930cf5f5705",
     "m_Title": "Gradiente",
     "m_Position": {
-        "x": -403.9999694824219,
-        "y": -644.9999389648438
+        "x": -404.0,
+        "y": -645.0
     }
 }
 
@@ -2906,8 +2906,8 @@
     "m_ObjectId": "53d723d81bf746b9ac7c9fc744e99be3",
     "m_Title": "Añadir color",
     "m_Position": {
-        "x": -743.9999389648438,
-        "y": 932.0001220703125
+        "x": -744.0,
+        "y": 932.0
     }
 }
 
@@ -3003,8 +3003,8 @@
     "m_ObjectId": "58a8fe001dda43bf956c7159a139eb4b",
     "m_Title": "Porcentaje del Mesh",
     "m_Position": {
-        "x": -1515.999755859375,
-        "y": -625.9999389648438
+        "x": -1516.0,
+        "y": -626.0
     }
 }
 
@@ -3331,8 +3331,8 @@
     "m_ObjectId": "63f4d1fad8df4f7f92947ba0326697f3",
     "m_Title": "Partes de Arriba: Mesh",
     "m_Position": {
-        "x": -2212.999755859375,
-        "y": 1863.9998779296875
+        "x": -2213.0,
+        "y": 1864.0
     }
 }
 
@@ -3535,7 +3535,7 @@
     "m_ObjectId": "698d6394d5b04cf9aa6ab0eeaaf45ccc",
     "m_Title": "Musgo textura",
     "m_Position": {
-        "x": -1666.999755859375,
+        "x": -1667.0,
         "y": 1195.0
     }
 }
@@ -6195,7 +6195,7 @@
     "m_Title": "Mascara con Alpha",
     "m_Position": {
         "x": -410.0,
-        "y": 1707.0001220703125
+        "y": 1707.0
     }
 }
 
@@ -6353,7 +6353,7 @@
     "m_ObjectId": "e6c9c9a53e4343c7bac75d2c7de69a3d",
     "m_Title": "Textura Principal",
     "m_Position": {
-        "x": -850.9999389648438,
+        "x": -851.0,
         "y": -40.0
     }
 }

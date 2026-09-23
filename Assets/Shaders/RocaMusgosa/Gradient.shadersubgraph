@@ -21,7 +21,11 @@
     ],
     "m_Keywords": [],
     "m_Dropdowns": [],
-    "m_CategoryData": [],
+    "m_CategoryData": [
+        {
+            "m_Id": "71c59794564241588b9de6bf72d10e12"
+        }
+    ],
     "m_Nodes": [
         {
             "m_Id": "b4d4e05aeebe449cb4d2512f58c7040c"
@@ -424,17 +428,17 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "34125565de7a437d818171c9f2c92969",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "d8b4cea92cd344f4a9d64b52d83a9697"
     },
     "m_Name": "Property",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 241.50009155273438,
-            "y": -81.5,
-            "width": 0.0,
-            "height": 0.0
+            "x": 111.99993896484375,
+            "y": -205.0,
+            "width": 186.99996948242188,
+            "height": 34.000030517578128
         }
     },
     "m_Slots": [
@@ -460,17 +464,17 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "3b943e8653594cb18de95b5ec5cbc97e",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "d8b4cea92cd344f4a9d64b52d83a9697"
     },
     "m_Name": "Property",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 241.50009155273438,
-            "y": -111.5,
-            "width": 0.0,
-            "height": 0.0
+            "x": 111.99993896484375,
+            "y": -234.99998474121095,
+            "width": 185.99996948242188,
+            "height": 33.99998474121094
         }
     },
     "m_Slots": [
@@ -789,6 +793,30 @@
         "z": 0.0,
         "w": 0.0
     }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
+    "m_ObjectId": "71c59794564241588b9de6bf72d10e12",
+    "m_Name": "",
+    "m_ChildObjectList": [
+        {
+            "m_Id": "f8b6b2f16a09473ab48782712b298a0d"
+        },
+        {
+            "m_Id": "8a44060841aa40eaa6e422f2ec43e29d"
+        },
+        {
+            "m_Id": "dedf7ba9a9c44810a0d44ab27b3b5caa"
+        },
+        {
+            "m_Id": "cfe1d600d5dd46e7819832f50f80ba50"
+        },
+        {
+            "m_Id": "2c03f54ed7514a5799f49bda2856e200"
+        }
+    ]
 }
 
 {
@@ -1234,8 +1262,8 @@
     "m_ObjectId": "d8b4cea92cd344f4a9d64b52d83a9697",
     "m_Title": "Gradiente",
     "m_Position": {
-        "x": -1249.0001220703125,
-        "y": -921.9999389648438
+        "x": -583.0000610351563,
+        "y": -333.0
     }
 }
 
@@ -1365,10 +1393,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -706.5001220703125,
-            "y": -140.50006103515626,
-            "width": 0.0,
-            "height": 0.0
+            "x": -789.0000610351563,
+            "y": -143.0,
+            "width": 156.0,
+            "height": 33.999969482421878
         }
     },
     "m_Slots": [
